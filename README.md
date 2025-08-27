@@ -1,2 +1,3 @@
 # PRODIGY_CS_02
-Python
+
+Developed a simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allows users to encrypt and decrypt images.
